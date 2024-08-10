@@ -35,6 +35,10 @@
                 </div>
                 <div class="card">
                     <h2 class="card__title">Feature 3</h2>
+                    <div class="card__content">Upload and Read Latest Blogs</div>
+                </div>
+                <div class="card">
+                    <h2 class="card__title">Feature 4</h2>
                     <div class="card__content">Contact us for more information</div>
                 </div>
             </div>

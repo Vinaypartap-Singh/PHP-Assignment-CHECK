@@ -293,3 +293,62 @@ footer {
   margin: 10px 0;
   border-radius: 4px;
 }
+
+.blog-post {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.blog-post h3 {
+  color: #333;
+}
+
+.blog-post p {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.blog-post div {
+  margin-top: 10px;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-column {
+  flex: 1;
+  padding: 0 10px;
+}
+
+.footer-column h4 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #ff0000; /* Red color for headings */
+}
+
+.footer-column p {
+  margin: 5px 0;
+}
+
+.footer-column p:first-of-type {
+  font-weight: bold;
+}
