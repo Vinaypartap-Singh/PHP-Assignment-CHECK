@@ -9,7 +9,7 @@
     <?php include 'templates/header.php'; ?>
     
     <div class="main-content">
-        <h2>Welcome to Our PHP Assignment</h2>
+        <h2>Welcome to Info Blogs</h2>
         <p>Our website is designed to help users manage their information easily with the power of PHP and MySQL. Explore the features and become a part of our community.</p>
         
         <section class="intro">
